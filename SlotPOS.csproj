@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{17D2F95B-41DE-4FBB-8153-BB33E067D6C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SlotPOS</RootNamespace>
+    <AssemblyName>SlotPOS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\clsGlobalVar.cs" />
+    <Compile Include="frmBalChecker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBalChecker.Designer.cs">
+      <DependentUpon>frmBalChecker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCardActivation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCardActivation.Designer.cs">
+      <DependentUpon>frmCardActivation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDashBoard.Designer.cs">
+      <DependentUpon>frmDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDayOpenClose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDayOpenClose.Designer.cs">
+      <DependentUpon>frmDayOpenClose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeduction.Designer.cs">
+      <DependentUpon>frmDeduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEncoding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEncoding.Designer.cs">
+      <DependentUpon>frmEncoding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEvent.Designer.cs">
+      <DependentUpon>frmEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPortSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPortSelect.Designer.cs">
+      <DependentUpon>frmPortSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReports.Designer.cs">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportViewer.Designer.cs">
+      <DependentUpon>frmReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSlotScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSlotScreen.Designer.cs">
+      <DependentUpon>frmSlotScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTicketIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTicketIssue.Designer.cs">
+      <DependentUpon>frmTicketIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ConsumptionReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ConsumptionReport.Designer.cs">
+      <DependentUpon>ConsumptionReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmCardReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmCardReport.Designer.cs">
+      <DependentUpon>frmCardReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmDailyActivityReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmDailyActivityReport.Designer.cs">
+      <DependentUpon>frmDailyActivityReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmExpiredBalanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmExpiredBalanceReport.Designer.cs">
+      <DependentUpon>frmExpiredBalanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmMasterCardUsage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmMasterCardUsage.Designer.cs">
+      <DependentUpon>frmMasterCardUsage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmMemberTopUpReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmMemberTopUpReport.Designer.cs">
+      <DependentUpon>frmMemberTopUpReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmUnRechargeAmount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmUnRechargeAmount.Designer.cs">
+      <DependentUpon>frmUnRechargeAmount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\PromotionReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\PromotionReport.Designer.cs">
+      <DependentUpon>PromotionReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\TodayTransTReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\TodayTransTReport.Designer.cs">
+      <DependentUpon>TodayTransTReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\UserTransReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\UserTransReport.Designer.cs">
+      <DependentUpon>UserTransReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setup Forms\frmEventSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup Forms\frmEventSetup.Designer.cs">
+      <DependentUpon>frmEventSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmEventReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmEventReport.Designer.cs">
+      <DependentUpon>frmEventReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmSalesbyItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmSalesbyItem.Designer.cs">
+      <DependentUpon>frmSalesbyItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmSalesbyPaymentMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmSalesbyPaymentMethod.Designer.cs">
+      <DependentUpon>frmSalesbyPaymentMethod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSlotPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSlotPOS.Designer.cs">
+      <DependentUpon>frmSlotPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setup Forms\frmCounterSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup Forms\frmCounterSetup.Designer.cs">
+      <DependentUpon>frmCounterSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setup Forms\frmItemCategorySetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup Forms\frmItemCategorySetup.Designer.cs">
+      <DependentUpon>frmItemCategorySetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setup Forms\frmItemSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup Forms\frmItemSetup.Designer.cs">
+      <DependentUpon>frmItemSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaymentMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaymentMode.Designer.cs">
+      <DependentUpon>frmPaymentMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Setup Forms\frmLotSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup Forms\frmLotSetup.Designer.cs">
+      <DependentUpon>frmLotSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SlotDataSet.cs">
+      <DependentUpon>SlotDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SlotDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SlotDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SlotPOSModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SlotPOSModel.edmx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bin\Debug\RdlcReport\CardAmountSlip.rdlc" />
+    <EmbeddedResource Include="bin\Debug\RdlcReport\CardBalanceDetailsReport.rdlc" />
+    <EmbeddedResource Include="bin\Debug\RdlcReport\ItemSlip.rdlc" />
+    <EmbeddedResource Include="bin\Debug\RdlcReport\MasterCardReport.rdlc" />
+    <EmbeddedResource Include="bin\Debug\RdlcReport\rptExpiredBalanceReport.rdlc" />
+    <EmbeddedResource Include="bin\Debug\RdlcReport\rptMasterCardUsage.rdlc" />
+    <EmbeddedResource Include="bin\Debug\RdlcReport\rptMemeberTopUpReport.rdlc" />
+    <EmbeddedResource Include="bin\Debug\RdlcReport\rptUnRechargeAmount.rdlc" />
+    <EmbeddedResource Include="bin\Debug\RdlcReport\todayTransReport.rdlc" />
+    <EmbeddedResource Include="bin\Debug\RdlcReport\userTransReport.rdlc" />
+    <EmbeddedResource Include="frmBalChecker.resx">
+      <DependentUpon>frmBalChecker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCardActivation.resx">
+      <DependentUpon>frmCardActivation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDashBoard.resx">
+      <DependentUpon>frmDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDayOpenClose.resx">
+      <DependentUpon>frmDayOpenClose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeduction.resx">
+      <DependentUpon>frmDeduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEncoding.resx">
+      <DependentUpon>frmEncoding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEvent.resx">
+      <DependentUpon>frmEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPortSelect.resx">
+      <DependentUpon>frmPortSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReports.resx">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportViewer.resx">
+      <DependentUpon>frmReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSlotScreen.resx">
+      <DependentUpon>frmSlotScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTicketIssue.resx">
+      <DependentUpon>frmTicketIssue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RdlcReport\MasterCardReport.rdlc" />
+    <EmbeddedResource Include="RdlcReport\rptDailyActivity.rdlc" />
+    <EmbeddedResource Include="RdlcReport\rptEventDetail.rdlc" />
+    <EmbeddedResource Include="RdlcReport\rptEventPreview.rdlc" />
+    <EmbeddedResource Include="RdlcReport\rptPrintBill.rdlc" />
+    <EmbeddedResource Include="RdlcReport\rptPromotion.rdlc" />
+    <EmbeddedResource Include="RdlcReport\rptSalesByPaymentMethod.rdlc" />
+    <EmbeddedResource Include="RdlcReport\rptUnRechargeAmount.rdlc" />
+    <EmbeddedResource Include="RdlcReport\SalesReport.rdlc" />
+    <EmbeddedResource Include="RdlcReport\userTransReport.rdlc" />
+    <EmbeddedResource Include="Reports\ConsumptionReport.resx">
+      <DependentUpon>ConsumptionReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmCardReport.resx">
+      <DependentUpon>frmCardReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmDailyActivityReport.resx">
+      <DependentUpon>frmDailyActivityReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmExpiredBalanceReport.resx">
+      <DependentUpon>frmExpiredBalanceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmMasterCardUsage.resx">
+      <DependentUpon>frmMasterCardUsage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmMemberTopUpReport.resx">
+      <DependentUpon>frmMemberTopUpReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmUnRechargeAmount.resx">
+      <DependentUpon>frmUnRechargeAmount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PromotionReport.resx">
+      <DependentUpon>PromotionReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\TodayTransTReport.resx">
+      <DependentUpon>TodayTransTReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\UserTransReport.resx">
+      <DependentUpon>UserTransReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup Forms\frmEventSetup.resx">
+      <DependentUpon>frmEventSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmEventReport.resx">
+      <DependentUpon>frmEventReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaymentMode.resx">
+      <DependentUpon>frmPaymentMode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmSalesbyItem.resx">
+      <DependentUpon>frmSalesbyItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmSalesbyPaymentMethod.resx">
+      <DependentUpon>frmSalesbyPaymentMethod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSlotPOS.resx">
+      <DependentUpon>frmSlotPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Setup Forms\frmCounterSetup.resx">
+      <DependentUpon>frmCounterSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup Forms\frmItemCategorySetup.resx">
+      <DependentUpon>frmItemCategorySetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup Forms\frmItemSetup.resx">
+      <DependentUpon>frmItemSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup Forms\frmLotSetup.resx">
+      <DependentUpon>frmLotSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\SlotPOSEntities.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EntityDeploy Include="SlotPOSModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>SlotPOSModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="SlotDataSet.xsc">
+      <DependentUpon>SlotDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SlotDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SlotDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="SlotDataSet.xss">
+      <DependentUpon>SlotDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-refresh-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pictureBox3.Image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REport1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BalanceHistory.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

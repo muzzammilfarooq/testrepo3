@@ -1,0 +1,1174 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\bin\Debug\SlotPOS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\bin\Debug\SlotPOS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\GenerateResource.read.26.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Final Version\SlotPOS\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Final Version\SlotPOS\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Final Version\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Final Version\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+E:\SlotPOSNew\SlotPOS\SlotPOS\bin\Debug\SlotPOS.exe.config
+E:\SlotPOSNew\SlotPOS\SlotPOS\bin\Debug\SlotPOS.exe
+E:\SlotPOSNew\SlotPOS\SlotPOS\bin\Debug\SlotPOS.pdb
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\RdlCompile.cache
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.exe
+E:\SlotPOSNew\SlotPOS\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Project\Pavilion End Projects\SlotPOSNew\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Final Version\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Final Version\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Final Version\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Final Version\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\ASmat\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\ASmat\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.exe
+D:\ASmat\SlotPOSNew\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\ASmat\SlotPOSNew\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\bin\Debug\SlotPOS.exe.config
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\bin\Debug\SlotPOS.exe
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\bin\Debug\SlotPOS.pdb
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\RdlCompile.cache
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.exe
+H:\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallSetting\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development\Development\Final Version\Murtaza New SlotPOS\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\bin\Debug\SlotPOS.exe.config
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.exe
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\bin\Debug\SlotPOS.exe
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\bin\Debug\SlotPOS.pdb
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\RdlCompile.cache
+E:\Fuzail\SlotPOSNewOriginalOceanMallLaserTagSetting\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+E:\Fuzail\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe.config
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.exe
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+E:\Fuzail\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe
+E:\Fuzail\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.pdb
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.cache
+E:\Fuzail\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe
+D:\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe.config
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.exe
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.pdb
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\RFID SOLUTION FINAL\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Development\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Development\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Development\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Development\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Development\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Development\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Final RFid\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Final RFid\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Final RFid\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Final RFid\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Final RFid\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+F:\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe.config
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.exe
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+F:\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe
+F:\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.pdb
+F:\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.cache
+F:\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.exe
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\SlotPos_Updated\SlotPOSRFID\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\SlotPOS.exe
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\SlotPOS.exe.config
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.exe
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\SlotPOS.exe
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\SlotPOS.pdb
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\RdlCompile.cache
+E:\Development21Aug2017\SlotPos_Updated\SlotPOSRFIDHaunted\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDHauntedMasterCardWork\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\bin\Debug\SlotPOS.exe
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\SSK\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.ConsumptionReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.ConsumptionReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK - Copy\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.ConsumptionReport.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\SlotPOS.exe.config
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\SlotPOS.exe
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\SlotPOS.pdb
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.exe
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+E:\SOFTWARES\Development\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.ConsumptionReport.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Angular\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.ConsumptionReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmMasterReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK _RunningGV\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDFNFCourt\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDFNFCourt\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\SlotPOSRFIDFNFCourt\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.ConsumptionReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmCardReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.PromotionReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running\SlotPOS\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.exe
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.ConsumptionReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmCardReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.PromotionReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\Development21Aug2017\Development\Development\Final Version\Murtaza New SlotPOS\SlotPos_Updated\Final SSK_SlotPOS\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+\\172.16.0.5\software\Aziz\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.exe.config
+\\172.16.0.5\software\Aziz\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.exe
+\\172.16.0.5\software\Aziz\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.exe.config
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.exe
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.pdb
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.exe
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.pdb
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.ConsumptionReport.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmCardReport.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.PromotionReport.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\RdlCompile.cache
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Reports.frmMasterCardUsage.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Reports.frmMemberTopUpReport.resources
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.csprojResolveAssemblyReference.cache
+D:\ALL Application\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Reports.frmExpiredBalanceReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.exe.config
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.exe
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\SlotPOS.pdb
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmBalChecker.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmCardActivation.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.DashBoard.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmDayOpenClose.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmDeduction.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEncoding.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEvent.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmlogin.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmPortSelect.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmReports.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmReportViewer.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotScreen.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmTicketIssue.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.ConsumptionReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmCardReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmDailyActivityReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Reports.frmExpiredBalanceReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Reports.frmMasterCardUsage.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Reports.frmMemberTopUpReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Reports.frmUnRechargeAmount.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.PromotionReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.TodayTransTReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.UserTransReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEventSetup.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmEventReport.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmPaymentMode.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyItem.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSalesbyPaymentMethod.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmSlotPOS.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Properties.Resources.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmCounterSetup.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmItemCategorySetup.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.frmItemSetup.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.Setup_Forms.frmLotSetup.resources
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.csproj.GenerateResource.Cache
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\RdlCompile.cache
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\RdlCompile.compiled
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.exe
+E:\Softwares\SlotPOSRFIDSSK_Running -AzizDiscount\SlotPOS\obj\x86\Debug\SlotPOS.pdb

@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SlotPOSModelStoreContainer" CdmEntityContainer="SlotPOSEntities">
+    <EntitySetMapping Name="tblEventDetails">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblEventDetail">
+        <MappingFragment StoreEntitySet="tblEventDetail">
+          <ScalarProperty Name="PaymentType" ColumnName="PaymentType" />
+          <ScalarProperty Name="EventDetailID" ColumnName="EventDetailID" />
+          <ScalarProperty Name="EventID" ColumnName="EventID" />
+          <ScalarProperty Name="AdvanceAmount" ColumnName="AdvanceAmount" />
+          <ScalarProperty Name="BalanceAmount" ColumnName="BalanceAmount" />
+          <ScalarProperty Name="BalanceAmountRec" ColumnName="BalanceAmountRec" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUsers">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblUser">
+        <MappingFragment StoreEntitySet="tblUser">
+          <ScalarProperty Name="DayOpenClose" ColumnName="DayOpenClose" />
+          <ScalarProperty Name="IsMasterCard" ColumnName="IsMasterCard" />
+          <ScalarProperty Name="Encoding" ColumnName="Encoding" />
+          <ScalarProperty Name="IsEvent" ColumnName="IsEvent" />
+          <ScalarProperty Name="IsGuest" ColumnName="IsGuest" />
+          <ScalarProperty Name="IsSSMember" ColumnName="IsSSMember" />
+          <ScalarProperty Name="IsRegular" ColumnName="IsRegular" />
+          <ScalarProperty Name="IsPrint" ColumnName="IsPrint" />
+          <ScalarProperty Name="Reports" ColumnName="Reports" />
+          <ScalarProperty Name="EventTransaction" ColumnName="EventTransaction" />
+          <ScalarProperty Name="EventSetup" ColumnName="EventSetup" />
+          <ScalarProperty Name="SlotScreen" ColumnName="SlotScreen" />
+          <ScalarProperty Name="PointOfSale" ColumnName="PointOfSale" />
+          <ScalarProperty Name="TicketIssuance" ColumnName="TicketIssuance" />
+          <ScalarProperty Name="LOTSetup" ColumnName="LOTSetup" />
+          <ScalarProperty Name="ItemSetup" ColumnName="ItemSetup" />
+          <ScalarProperty Name="ItemCategorySetup" ColumnName="ItemCategorySetup" />
+          <ScalarProperty Name="UserSetup" ColumnName="UserSetup" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="CounterID" ColumnName="CounterID" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblEvents">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblEvent">
+        <MappingFragment StoreEntitySet="tblEvent">
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="TotalPlanAmount" ColumnName="TotalPlanAmount" />
+          <ScalarProperty Name="NoOfGuest" ColumnName="NoOfGuest" />
+          <ScalarProperty Name="SlotTime" ColumnName="SlotTime" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="EventName" ColumnName="EventName" />
+          <ScalarProperty Name="EventDate" ColumnName="EventDate" />
+          <ScalarProperty Name="EventID" ColumnName="EventID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblOpeningClosings">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblOpeningClosing">
+        <MappingFragment StoreEntitySet="tblOpeningClosing">
+          <ScalarProperty Name="ClosingDate" ColumnName="ClosingDate" />
+          <ScalarProperty Name="OpeningDate" ColumnName="OpeningDate" />
+          <ScalarProperty Name="OpeningClosingID" ColumnName="OpeningClosingID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblLotSetups">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblLotSetup">
+        <MappingFragment StoreEntitySet="tblLotSetup">
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="ToTicket" ColumnName="ToTicket" />
+          <ScalarProperty Name="FromTicket" ColumnName="FromTicket" />
+          <ScalarProperty Name="LOTName" ColumnName="LOTName" />
+          <ScalarProperty Name="LOTID" ColumnName="LOTID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblTicketIssues">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblTicketIssue">
+        <MappingFragment StoreEntitySet="tblTicketIssue">
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="BalanceTicket" ColumnName="BalanceTicket" />
+          <ScalarProperty Name="ToTicket" ColumnName="ToTicket" />
+          <ScalarProperty Name="FromTicket" ColumnName="FromTicket" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="LOTID" ColumnName="LOTID" />
+          <ScalarProperty Name="IssueDate" ColumnName="IssueDate" />
+          <ScalarProperty Name="TicketIssueID" ColumnName="TicketIssueID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPOSDetails">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblPOSDetail">
+        <MappingFragment StoreEntitySet="tblPOSDetail">
+          <ScalarProperty Name="TicketIssueID" ColumnName="TicketIssueID" />
+          <ScalarProperty Name="NetAmount" ColumnName="NetAmount" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="ItemID" ColumnName="ItemID" />
+          <ScalarProperty Name="ItemCategoryID" ColumnName="ItemCategoryID" />
+          <ScalarProperty Name="POSID" ColumnName="POSID" />
+          <ScalarProperty Name="POSDetail" ColumnName="POSDetail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPOS">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblPOS">
+        <MappingFragment StoreEntitySet="tblPOS">
+          <ScalarProperty Name="NetAmount" ColumnName="NetAmount" />
+          <ScalarProperty Name="DiscountPer" ColumnName="DiscountPer" />
+          <ScalarProperty Name="DiscountAmount" ColumnName="DiscountAmount" />
+          <ScalarProperty Name="IsDiscount" ColumnName="IsDiscount" />
+          <ScalarProperty Name="DiscountID" ColumnName="DiscountID" />
+          <ScalarProperty Name="WID" ColumnName="WID" />
+          <ScalarProperty Name="CName" ColumnName="CName" />
+          <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+          <ScalarProperty Name="CounterID" ColumnName="CounterID" />
+          <ScalarProperty Name="InsertedDateTime" ColumnName="InsertedDateTime" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="BalanceAmount" ColumnName="BalanceAmount" />
+          <ScalarProperty Name="PaidAmount" ColumnName="PaidAmount" />
+          <ScalarProperty Name="TotalAmount" ColumnName="TotalAmount" />
+          <ScalarProperty Name="PaymentType" ColumnName="PaymentType" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="POSID" ColumnName="POSID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSlots">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblSlot">
+        <MappingFragment StoreEntitySet="tblSlot">
+          <ScalarProperty Name="ToTime" ColumnName="ToTime" />
+          <ScalarProperty Name="FromTime" ColumnName="FromTime" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ItemID" ColumnName="ItemID" />
+          <ScalarProperty Name="ItemCategoryID" ColumnName="ItemCategoryID" />
+          <ScalarProperty Name="SlotNo" ColumnName="SlotNo" />
+          <ScalarProperty Name="SlotSetupID" ColumnName="SlotSetupID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMachines">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblMachine">
+        <MappingFragment StoreEntitySet="tblMachine">
+          <ScalarProperty Name="MachineEntrance" ColumnName="MachineEntrance" />
+          <ScalarProperty Name="MachineType" ColumnName="MachineType" />
+          <ScalarProperty Name="WDAmount" ColumnName="WDAmount" />
+          <ScalarProperty Name="WEAmount" ColumnName="WEAmount" />
+          <ScalarProperty Name="MachineName" ColumnName="MachineName" />
+          <ScalarProperty Name="MachineCode" ColumnName="MachineCode" />
+          <ScalarProperty Name="MachineID" ColumnName="MachineID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblTransactions">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblTransaction">
+        <MappingFragment StoreEntitySet="tblTransactions">
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="IsMaster" ColumnName="IsMaster" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+          <ScalarProperty Name="MachineCode" ColumnName="MachineCode" />
+          <ScalarProperty Name="CardCode" ColumnName="CardCode" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblNewCards">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblNewCard">
+        <MappingFragment StoreEntitySet="tblNewCards">
+          <ScalarProperty Name="FirstBalance" ColumnName="FirstBalance" />
+          <ScalarProperty Name="POSID" ColumnName="POSID" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="IsMaster" ColumnName="IsMaster" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="CardAmount" ColumnName="CardAmount" />
+          <ScalarProperty Name="RfidCode" ColumnName="RfidCode" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRechargeAmounts">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblRechargeAmount">
+        <MappingFragment StoreEntitySet="tblRechargeAmount">
+          <ScalarProperty Name="POSID" ColumnName="POSID" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="IsMaster" ColumnName="IsMaster" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+          <ScalarProperty Name="RechargeAmount" ColumnName="RechargeAmount" />
+          <ScalarProperty Name="RfidCode" ColumnName="RfidCode" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCounters">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblCounter">
+        <MappingFragment StoreEntitySet="tblCounter">
+          <ScalarProperty Name="CardFreeEntry" ColumnName="CardFreeEntry" />
+          <ScalarProperty Name="CardBasicAmount" ColumnName="CardBasicAmount" />
+          <ScalarProperty Name="NewCardAmount" ColumnName="NewCardAmount" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="CounterName" ColumnName="CounterName" />
+          <ScalarProperty Name="CounterID" ColumnName="CounterID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="bal_checker" FunctionName="SlotPOSModel.Store.bal_checker">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SlotPOSModel.bal_checker_Result">
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="MemberMonthlyAmount" ColumnName="MemberMonthlyAmount" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="CardType" ColumnName="CardType" />
+          <ScalarProperty Name="EntranceType" ColumnName="EntranceType" />
+          <ScalarProperty Name="ConsumedBalance" ColumnName="ConsumedBalance" />
+          <ScalarProperty Name="ToDayCB" ColumnName="ToDayCB" />
+          <ScalarProperty Name="ToDayRechargedAmnt" ColumnName="ToDayRechargedAmnt" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="tblItemCategories">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblItemCategory">
+        <MappingFragment StoreEntitySet="tblItemCategory">
+          <ScalarProperty Name="Promotions" ColumnName="Promotions" />
+          <ScalarProperty Name="DiscreateItem" ColumnName="DiscreateItem" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="IsSlotCategory" ColumnName="IsSlotCategory" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="ItemCategory" ColumnName="ItemCategory" />
+          <ScalarProperty Name="ItemCategoryID" ColumnName="ItemCategoryID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblItems">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblItem">
+        <MappingFragment StoreEntitySet="tblItem">
+          <ScalarProperty Name="IsCriteria" ColumnName="IsCriteria" />
+          <ScalarProperty Name="IsTimeBase" ColumnName="IsTimeBase" />
+          <ScalarProperty Name="IsDateBase" ColumnName="IsDateBase" />
+          <ScalarProperty Name="IsDayBase" ColumnName="IsDayBase" />
+          <ScalarProperty Name="IsSunday" ColumnName="IsSunday" />
+          <ScalarProperty Name="IsSaturday" ColumnName="IsSaturday" />
+          <ScalarProperty Name="IsFriday" ColumnName="IsFriday" />
+          <ScalarProperty Name="IsThusday" ColumnName="IsThusday" />
+          <ScalarProperty Name="IsWednesday" ColumnName="IsWednesday" />
+          <ScalarProperty Name="IsTuesday" ColumnName="IsTuesday" />
+          <ScalarProperty Name="IsMonday" ColumnName="IsMonday" />
+          <ScalarProperty Name="Todate" ColumnName="Todate" />
+          <ScalarProperty Name="FromDate" ColumnName="FromDate" />
+          <ScalarProperty Name="ToTime" ColumnName="ToTime" />
+          <ScalarProperty Name="FromTime" ColumnName="FromTime" />
+          <ScalarProperty Name="RfidWatch" ColumnName="RfidWatch" />
+          <ScalarProperty Name="InsertedDate" ColumnName="InsertedDate" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+          <ScalarProperty Name="ItemName" ColumnName="ItemName" />
+          <ScalarProperty Name="ItemCategoryID" ColumnName="ItemCategoryID" />
+          <ScalarProperty Name="ItemID" ColumnName="ItemID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRFIDs">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblRFID">
+        <MappingFragment StoreEntitySet="tblRFID">
+          <ScalarProperty Name="IsRFIDWatch" ColumnName="IsRFIDWatch" />
+          <ScalarProperty Name="MemberCardCode" ColumnName="MemberCardCode" />
+          <ScalarProperty Name="IsMemberPrincipal" ColumnName="IsMemberPrincipal" />
+          <ScalarProperty Name="IsMemberActive" ColumnName="IsMemberActive" />
+          <ScalarProperty Name="MemberPrincipalCode" ColumnName="MemberPrincipalCode" />
+          <ScalarProperty Name="MemberAmount" ColumnName="MemberAmount" />
+          <ScalarProperty Name="Entrance" ColumnName="Entrance" />
+          <ScalarProperty Name="IsMaster" ColumnName="IsMaster" />
+          <ScalarProperty Name="CardActiveDateTime" ColumnName="CardActiveDateTime" />
+          <ScalarProperty Name="UpdateDateTime" ColumnName="UpdateDateTime" />
+          <ScalarProperty Name="CardType" ColumnName="CardType" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="RFIDCode" ColumnName="RFIDCode" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblServerStatus">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblServerStatu">
+        <MappingFragment StoreEntitySet="tblServerStatus">
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="ServerCloseDate" ColumnName="ServerCloseDate" />
+          <ScalarProperty Name="ServerOPenDate" ColumnName="ServerOPenDate" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUserItemCategories">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblUserItemCategory">
+        <MappingFragment StoreEntitySet="tblUserItemCategory">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="categoryID" ColumnName="categoryID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPromotions">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblPromotion">
+        <MappingFragment StoreEntitySet="tblPromotions">
+          <ScalarProperty Name="PromotionCategoryId" ColumnName="PromotionCategoryId" />
+          <ScalarProperty Name="RfidCode" ColumnName="RfidCode" />
+          <ScalarProperty Name="POSId" ColumnName="POSId" />
+          <ScalarProperty Name="InsertedDateTime" ColumnName="InsertedDateTime" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="RfidId" ColumnName="RfidId" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDiscounts">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblDiscount">
+        <MappingFragment StoreEntitySet="tblDiscount">
+          <ScalarProperty Name="CardType" ColumnName="CardType" />
+          <ScalarProperty Name="UpdateDateTime" ColumnName="UpdateDateTime" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="InsertedDateTime" ColumnName="InsertedDateTime" />
+          <ScalarProperty Name="InsertedBy" ColumnName="InsertedBy" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="DiscountPER" ColumnName="DiscountPER" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+          <ScalarProperty Name="CompanyCode" ColumnName="CompanyCode" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblBalanceHistoryDateWises">
+      <EntityTypeMapping TypeName="SlotPOSModel.tblBalanceHistoryDateWise">
+        <MappingFragment StoreEntitySet="tblBalanceHistoryDateWise">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="UsedBalance" ColumnName="UsedBalance" />
+          <ScalarProperty Name="UnUsedBalance" ColumnName="UnUsedBalance" />
+          <ScalarProperty Name="RechargeAmount" ColumnName="RechargeAmount" />
+          <ScalarProperty Name="UnRechargeID" ColumnName="UnRechargeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

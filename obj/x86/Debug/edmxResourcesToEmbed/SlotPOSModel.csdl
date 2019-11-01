@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SlotPOSModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="SlotPOSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblEventDetails" EntityType="SlotPOSModel.tblEventDetail" />
+    <EntitySet Name="tblUsers" EntityType="SlotPOSModel.tblUser" />
+    <EntitySet Name="tblEvents" EntityType="SlotPOSModel.tblEvent" />
+    <EntitySet Name="tblOpeningClosings" EntityType="SlotPOSModel.tblOpeningClosing" />
+    <EntitySet Name="tblLotSetups" EntityType="SlotPOSModel.tblLotSetup" />
+    <EntitySet Name="tblTicketIssues" EntityType="SlotPOSModel.tblTicketIssue" />
+    <EntitySet Name="tblPOSDetails" EntityType="SlotPOSModel.tblPOSDetail" />
+    <EntitySet Name="tblPOS" EntityType="SlotPOSModel.tblPOS" />
+    <EntitySet Name="tblSlots" EntityType="SlotPOSModel.tblSlot" />
+    <EntitySet Name="tblMachines" EntityType="SlotPOSModel.tblMachine" />
+    <EntitySet Name="tblTransactions" EntityType="SlotPOSModel.tblTransaction" />
+    <EntitySet Name="tblNewCards" EntityType="SlotPOSModel.tblNewCard" />
+    <EntitySet Name="tblRechargeAmounts" EntityType="SlotPOSModel.tblRechargeAmount" />
+    <EntitySet Name="tblCounters" EntityType="SlotPOSModel.tblCounter" />
+    <FunctionImport Name="bal_checker" ReturnType="Collection(SlotPOSModel.bal_checker_Result)">
+      <Parameter Name="rfidCode" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="tblItemCategories" EntityType="SlotPOSModel.tblItemCategory" />
+    <EntitySet Name="tblItems" EntityType="SlotPOSModel.tblItem" />
+    <EntitySet Name="tblRFIDs" EntityType="SlotPOSModel.tblRFID" />
+    <EntitySet Name="tblServerStatus" EntityType="SlotPOSModel.tblServerStatu" />
+    <EntitySet Name="tblUserItemCategories" EntityType="SlotPOSModel.tblUserItemCategory" />
+    <EntitySet Name="tblPromotions" EntityType="SlotPOSModel.tblPromotion" />
+    <EntitySet Name="tblDiscounts" EntityType="SlotPOSModel.tblDiscount" />
+    <EntitySet Name="tblBalanceHistoryDateWises" EntityType="SlotPOSModel.tblBalanceHistoryDateWise" />
+  </EntityContainer>
+  <EntityType Name="tblEventDetail">
+    <Key>
+      <PropertyRef Name="EventDetailID" />
+    </Key>
+    <Property Name="EventDetailID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EventID" Type="Int64" />
+    <Property Name="AdvanceAmount" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="BalanceAmount" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="BalanceAmountRec" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="InsertedDate" Type="DateTime" Precision="3" />
+    <Property Type="String" Name="PaymentType" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblUser">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CounterID" Type="Int64" />
+    <Property Name="Username" Type="String" MaxLength="150" Unicode="true" FixedLength="false" />
+    <Property Name="UserPassword" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="IsActive" Type="Boolean" />
+    <Property Name="InsertedDate" Type="DateTime" Precision="3" />
+    <Property Type="Boolean" Name="UserSetup" />
+    <Property Type="Boolean" Name="ItemCategorySetup" />
+    <Property Type="Boolean" Name="ItemSetup" />
+    <Property Type="Boolean" Name="LOTSetup" />
+    <Property Type="Boolean" Name="TicketIssuance" />
+    <Property Type="Boolean" Name="PointOfSale" />
+    <Property Type="Boolean" Name="SlotScreen" />
+    <Property Type="Boolean" Name="EventSetup" />
+    <Property Type="Boolean" Name="EventTransaction" />
+    <Property Type="Boolean" Name="Reports" />
+    <Property Type="Boolean" Name="IsPrint" />
+    <Property Name="IsRegular" Type="Boolean" />
+    <Property Name="IsSSMember" Type="Boolean" />
+    <Property Name="IsGuest" Type="Boolean" />
+    <Property Name="IsEvent" Type="Boolean" />
+    <Property Name="Encoding" Type="Boolean" />
+    <Property Type="Boolean" Name="IsMasterCard" />
+    <Property Type="Boolean" Name="DayOpenClose" />
+  </EntityType>
+  <EntityType Name="tblEvent">
+    <Key>
+      <PropertyRef Name="EventID" />
+    </Key>
+    <Property Type="Int64" Name="EventID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="EventDate" Precision="0" />
+    <Property Type="String" Name="EventName" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CustomerName" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PhoneNumber" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="EmailAddress" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SlotTime" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="NoOfGuest" />
+    <Property Type="Decimal" Name="TotalPlanAmount" Precision="18" Scale="2" />
+    <Property Type="Boolean" Name="IsActive" />
+    <Property Type="DateTime" Name="InsertedDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblOpeningClosing">
+    <Key>
+      <PropertyRef Name="OpeningClosingID" />
+    </Key>
+    <Property Type="Int64" Name="OpeningClosingID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="OpeningDate" Nullable="false" Precision="0" />
+    <Property Type="DateTime" Name="ClosingDate" Precision="0" />
+  </EntityType>
+  <EntityType Name="tblLotSetup">
+    <Key>
+      <PropertyRef Name="LOTID" />
+    </Key>
+    <Property Type="Int64" Name="LOTID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="LOTName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int64" Name="FromTicket" />
+    <Property Type="Int64" Name="ToTicket" />
+    <Property Type="DateTime" Name="InsertedDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblTicketIssue">
+    <Key>
+      <PropertyRef Name="TicketIssueID" />
+    </Key>
+    <Property Type="Int64" Name="TicketIssueID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="IssueDate" Precision="0" />
+    <Property Type="Int64" Name="LOTID" />
+    <Property Type="Int64" Name="CategoryID" />
+    <Property Type="Int64" Name="FromTicket" />
+    <Property Type="Int64" Name="ToTicket" />
+    <Property Type="Int64" Name="BalanceTicket" />
+    <Property Type="DateTime" Name="InsertedDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblPOSDetail">
+    <Key>
+      <PropertyRef Name="POSDetail" />
+    </Key>
+    <Property Type="Int64" Name="POSDetail" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="POSID" />
+    <Property Type="Int64" Name="ItemCategoryID" />
+    <Property Type="Int64" Name="ItemID" />
+    <Property Type="Int32" Name="Quantity" />
+    <Property Type="String" Name="Price" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="NetAmount" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int64" Name="TicketIssueID" />
+  </EntityType>
+  <EntityType Name="tblPOS">
+    <Key>
+      <PropertyRef Name="POSID" />
+    </Key>
+    <Property Type="Int64" Name="POSID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="UserID" />
+    <Property Type="DateTime" Name="SaleDate" Precision="3" />
+    <Property Type="String" Name="PaymentType" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="TotalAmount" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PaidAmount" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BalanceAmount" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Status" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="InsertedDateTime" Precision="3" />
+    <Property Type="Int64" Name="CounterID" />
+    <Property Type="String" Name="MobileNo" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Int64" Name="WID" />
+    <Property Name="DiscountID" Type="Int32" />
+    <Property Name="IsDiscount" Type="Boolean" />
+    <Property Name="DiscountAmount" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="DiscountPer" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="NetAmount" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblSlot">
+    <Key>
+      <PropertyRef Name="SlotSetupID" />
+    </Key>
+    <Property Type="Int64" Name="SlotSetupID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="SlotNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int64" Name="ItemCategoryID" />
+    <Property Type="Int64" Name="ItemID" />
+    <Property Type="String" Name="Status" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Time" Name="FromTime" Precision="7" />
+    <Property Type="Time" Name="ToTime" Precision="7" />
+  </EntityType>
+  <EntityType Name="tblMachine">
+    <Key>
+      <PropertyRef Name="MachineID" />
+    </Key>
+    <Property Type="Int64" Name="MachineID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="MachineCode" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="MachineName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="WEAmount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="WDAmount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Type="String" Name="MachineType" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="MachineEntrance" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tblTransaction">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int64" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CardCode" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="MachineCode" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Amount" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Boolean" Name="IsMaster" />
+    <Property Type="DateTime" Name="SaleDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblNewCard">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int64" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="RfidCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="CardAmount" Precision="18" Scale="2" />
+    <Property Type="String" Name="Status" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="DateTime" Precision="3" />
+    <Property Type="Boolean" Name="IsMaster" />
+    <Property Type="DateTime" Name="SaleDate" Precision="3" />
+    <Property Type="Int64" Name="POSID" />
+    <Property Type="Decimal" Name="FirstBalance" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="tblRechargeAmount">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int64" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="RfidCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="RechargeAmount" Precision="18" Scale="2" />
+    <Property Type="DateTime" Name="DateTime" Precision="3" />
+    <Property Type="Boolean" Name="IsMaster" />
+    <Property Type="DateTime" Name="SaleDate" Precision="3" />
+    <Property Type="Int64" Name="POSID" />
+  </EntityType>
+  <EntityType Name="tblCounter">
+    <Key>
+      <PropertyRef Name="CounterID" />
+    </Key>
+    <Property Type="Int64" Name="CounterID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CounterName" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsActive" />
+    <Property Type="DateTime" Name="InsertedDate" Precision="3" />
+    <Property Type="Decimal" Name="NewCardAmount" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="CardBasicAmount" Precision="18" Scale="2" />
+    <Property Type="Boolean" Name="CardFreeEntry" />
+  </EntityType>
+  <ComplexType Name="bal_checker_Result">
+    <Property Type="Decimal" Name="Amount" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="MemberMonthlyAmount" Nullable="false" Precision="18" Scale="0" />
+    <Property Type="Boolean" Name="IsActive" Nullable="true" />
+    <Property Type="String" Name="CardType" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="EntranceType" Nullable="true" MaxLength="50" />
+    <Property Type="Decimal" Name="ConsumedBalance" Nullable="false" Precision="38" Scale="2" />
+    <Property Type="Decimal" Name="ToDayCB" Nullable="false" Precision="38" Scale="2" />
+    <Property Type="Decimal" Name="ToDayRechargedAmnt" Nullable="false" Precision="18" Scale="2" />
+  </ComplexType>
+  <EntityType Name="tblItemCategory">
+    <Key>
+      <PropertyRef Name="ItemCategoryID" />
+    </Key>
+    <Property Type="Int64" Name="ItemCategoryID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="ItemCategory" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsActive" />
+    <Property Type="Boolean" Name="IsSlotCategory" />
+    <Property Type="DateTime" Name="InsertedDate" Precision="3" />
+    <Property Type="Boolean" Name="DiscreateItem" />
+    <Property Type="Boolean" Name="Promotions" />
+  </EntityType>
+  <EntityType Name="tblItem">
+    <Key>
+      <PropertyRef Name="ItemID" />
+    </Key>
+    <Property Type="Int64" Name="ItemID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="ItemCategoryID" />
+    <Property Type="String" Name="ItemName" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Unit" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="Price" Precision="18" Scale="2" />
+    <Property Type="Boolean" Name="IsActive" />
+    <Property Type="DateTime" Name="InsertedDate" Precision="3" />
+    <Property Type="Boolean" Name="RfidWatch" />
+    <Property Type="Time" Name="FromTime" />
+    <Property Type="Time" Name="ToTime" />
+    <Property Type="DateTime" Name="FromDate" />
+    <Property Type="DateTime" Name="Todate" />
+    <Property Type="Boolean" Name="IsMonday" />
+    <Property Type="Boolean" Name="IsTuesday" />
+    <Property Type="Boolean" Name="IsWednesday" />
+    <Property Type="Boolean" Name="IsThusday" />
+    <Property Type="Boolean" Name="IsFriday" />
+    <Property Type="Boolean" Name="IsSaturday" />
+    <Property Type="Boolean" Name="IsSunday" />
+    <Property Type="Boolean" Name="IsDayBase" />
+    <Property Type="Boolean" Name="IsDateBase" />
+    <Property Type="Boolean" Name="IsTimeBase" />
+    <Property Type="Boolean" Name="IsCriteria" />
+  </EntityType>
+  <EntityType Name="tblRFID">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int64" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="RFIDCode" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="Amount" Precision="18" Scale="2" />
+    <Property Type="Boolean" Name="IsActive" />
+    <Property Type="String" Name="CardType" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="UpdateDateTime" Precision="3" />
+    <Property Type="DateTime" Name="CardActiveDateTime" Precision="3" />
+    <Property Type="Boolean" Name="IsMaster" />
+    <Property Type="String" Name="Entrance" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="MemberAmount" Precision="18" Scale="0" />
+    <Property Type="String" Name="MemberPrincipalCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsMemberActive" />
+    <Property Type="Boolean" Name="IsMemberPrincipal" />
+    <Property Type="String" Name="MemberCardCode" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="IsRFIDWatch" />
+  </EntityType>
+  <EntityType Name="tblServerStatu">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int64" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="ServerOPenDate" Precision="3" />
+    <Property Type="DateTime" Name="ServerCloseDate" Precision="3" />
+    <Property Type="DateTime" Name="SaleDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblUserItemCategory">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int64" Nullable="false" />
+    <Property Name="categoryID" Type="Int64" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Precision="3" />
+    <Property Name="IsActive" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tblPromotion">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Amount" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="RfidId" Type="Int64" Nullable="false" />
+    <Property Name="SaleDate" Type="DateTime" Precision="3" />
+    <Property Name="InsertedDateTime" Type="DateTime" Precision="3" />
+    <Property Name="POSId" Type="Int64" Nullable="false" />
+    <Property Name="RfidCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PromotionCategoryId" Type="Int64" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblDiscount">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyCode" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Company" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DiscountPER" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="InsertedBy" Type="Int32" Nullable="false" />
+    <Property Name="InsertedDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="UpdatedBy" Type="Int32" />
+    <Property Name="UpdateDateTime" Type="DateTime" Precision="3" />
+    <Property Name="CardType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tblBalanceHistoryDateWise">
+    <Key>
+      <PropertyRef Name="UnRechargeID" />
+    </Key>
+    <Property Type="Int32" Name="UnRechargeID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Decimal" Name="RechargeAmount" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="UnUsedBalance" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="UsedBalance" Precision="18" Scale="2" />
+    <Property Type="DateTime" Name="SaleDate" />
+    <Property Type="Boolean" Name="IsActive" />
+  </EntityType>
+</Schema>
