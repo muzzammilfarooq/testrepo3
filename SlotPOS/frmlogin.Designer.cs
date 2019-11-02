@@ -143,9 +143,10 @@
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(12, 4);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(73, 13);
+            this.label3.Size = new System.Drawing.Size(75, 13);
             this.label3.TabIndex = 2;
-            this.label3.Text = "USER LOGIN";
+            this.label3.Text = "User login2 22";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // ep
             // 
