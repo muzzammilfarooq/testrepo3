@@ -1,0 +1,9 @@
+tblPromotion
+
+ [dbo].[sp_GetDailyActivityFooterReport]
+
+[dbo].[sp_GetDailyActivityReport] 
+
+[dbo].[sp_TotalCashSale] 
+
+[sp_TotalCashSaleByPaymentType]
