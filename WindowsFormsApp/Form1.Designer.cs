@@ -63,18 +63,19 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(49, 86);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 13);
+            this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Enter Name";
+            this.label1.Text = "Enter ";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(49, 124);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(52, 13);
+            this.label2.Size = new System.Drawing.Size(48, 13);
             this.label2.TabIndex = 4;
-            this.label2.Text = "Enter City";
+            this.label2.Text = "province";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // Form1
             // 
